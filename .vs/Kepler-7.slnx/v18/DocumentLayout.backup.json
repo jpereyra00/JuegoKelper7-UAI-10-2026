@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|c:\\users\\navegador\\source\\repos\\kepler-7\\kepler-7\\strategy\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|solutionrelative:kepler-7\\strategy\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|c:\\users\\navegador\\source\\repos\\kepler-7\\kepler-7\\strategy\\estrategias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|solutionrelative:kepler-7\\strategy\\estrategias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|c:\\users\\navegador\\source\\repos\\kepler-7\\kepler-7\\facade\\controlcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|solutionrelative:kepler-7\\facade\\controlcentral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|c:\\users\\navegador\\source\\repos\\kepler-7\\kepler-7\\facade\\subsistemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|solutionrelative:kepler-7\\facade\\subsistemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|c:\\users\\navegador\\source\\repos\\kepler-7\\kepler-7\\builder\\ingenierojefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|solutionrelative:kepler-7\\builder\\ingenierojefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|c:\\users\\navegador\\source\\repos\\kepler-7\\kepler-7\\builder\\navebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|solutionrelative:kepler-7\\builder\\navebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|c:\\users\\navegador\\source\\repos\\kepler-7\\kepler-7\\builder\\inavebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|solutionrelative:kepler-7\\builder\\inavebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|c:\\users\\navegador\\source\\repos\\kepler-7\\kepler-7\\builder\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|solutionrelative:kepler-7\\builder\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|c:\\users\\navegador\\source\\repos\\kepler-7\\kepler-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D1087B0-337E-413C-89D9-C60075E37435}|Kepler-7\\Kepler-7.csproj|solutionrelative:kepler-7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estrategias.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Strategy\\Estrategias.cs",
+              "RelativeDocumentMoniker": "Kepler-7\\Strategy\\Estrategias.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Strategy\\Estrategias.cs",
+              "RelativeToolTip": "Kepler-7\\Strategy\\Estrategias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:59:31.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Strategy\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Kepler-7\\Strategy\\Enemigo.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Strategy\\Enemigo.cs",
+              "RelativeToolTip": "Kepler-7\\Strategy\\Enemigo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:59:10.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubSistemas.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Facade\\SubSistemas.cs",
+              "RelativeDocumentMoniker": "Kepler-7\\Facade\\SubSistemas.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Facade\\SubSistemas.cs",
+              "RelativeToolTip": "Kepler-7\\Facade\\SubSistemas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:22:17.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlCentral.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Facade\\ControlCentral.cs",
+              "RelativeDocumentMoniker": "Kepler-7\\Facade\\ControlCentral.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Facade\\ControlCentral.cs",
+              "RelativeToolTip": "Kepler-7\\Facade\\ControlCentral.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:22:02.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NaveBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Builder\\NaveBuilder.cs",
+              "RelativeDocumentMoniker": "Kepler-7\\Builder\\NaveBuilder.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Builder\\NaveBuilder.cs",
+              "RelativeToolTip": "Kepler-7\\Builder\\NaveBuilder.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA0wDEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T12:17:59.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IngenieroJefe.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Builder\\IngenieroJefe.cs",
+              "RelativeDocumentMoniker": "Kepler-7\\Builder\\IngenieroJefe.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Builder\\IngenieroJefe.cs",
+              "RelativeToolTip": "Kepler-7\\Builder\\IngenieroJefe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:56:06.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InaveBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Builder\\InaveBuilder.cs",
+              "RelativeDocumentMoniker": "Kepler-7\\Builder\\InaveBuilder.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Builder\\InaveBuilder.cs",
+              "RelativeToolTip": "Kepler-7\\Builder\\InaveBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:55:54.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nave.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Builder\\Nave.cs",
+              "RelativeDocumentMoniker": "Kepler-7\\Builder\\Nave.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Builder\\Nave.cs",
+              "RelativeToolTip": "Kepler-7\\Builder\\Nave.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:55:41.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Form1.cs",
+              "RelativeDocumentMoniker": "Kepler-7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Kepler-7\\Kepler-7\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Kepler-7\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:54:48.718Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
